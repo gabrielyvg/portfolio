@@ -1,7 +1,7 @@
 import React from 'react'
 import { motion } from 'framer-motion';
 import { styles } from '../styles';
-import { ComputersCanvas, EarthCanvas } from './canvas';
+import { EarthCanvas } from './canvas';
 
 const Hero = () => {
   return (
@@ -17,7 +17,7 @@ const Hero = () => {
             Hi, I'm <span className='text-[#915eff]'>Gabriely</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I like to develop things.
+            I'm a fullstack Developer
           </p>
         </div>
       </div>
@@ -46,4 +46,4 @@ const Hero = () => {
   )
 }
 
-export default Hero
+export default Hero;

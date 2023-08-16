@@ -50,14 +50,9 @@ const About = () => {
         className="mt-4 text-secondary text-[17px]
         max-w-3xl leading-[30px]"
       >
-        Mussum Ipsum,
-        cacilds vidis litro abertis.
-        Delegadis gente finis, bibendum
-        egestas augue arcu ut est.
-        Atirei o pau no gatis, per gatis num morreus.
-        Não sou faixa preta cumpadi, sou preto inteiris,
-        inteiris. Suco de cevadiss, é um leite divinis,
-        qui tem lupuliz, matis, aguis e fermentis.
+        I'm a software developer with experience in TypeScript,
+        JavaScript and PHP, and expertise in frameworks like Angular, NextJS, and
+        Yii2. I'm a quick learner and like to challenge myself everyday.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
